@@ -1,2 +1,6 @@
 Chapter 1: The Mysterious Missing Data
 Once upon a time, there was a detective named Data who loved to solve puzzles...
+LINES
+SOME WILD STUFF HAPPENED OMG 
+OTHER LINES
+MANY LINES
